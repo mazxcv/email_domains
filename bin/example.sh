@@ -1,0 +1,1 @@
+carton exec ./script/email_domains.pl data/emails.txt
